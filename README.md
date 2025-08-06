@@ -48,3 +48,7 @@ There is no settings page. Once installed, the plugin activates automatically.
 ## Requirements ##
 - Moodle 4.0 or higher (tested up to 4.5)
 - PHP 7.4 or higher (depending on Moodle version)
+
+## Licence ##
+- This plugin is open source and distributed under the GNU GPL v3.
+
